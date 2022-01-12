@@ -1,0 +1,83 @@
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.csprojResolveAssemblyReference.cache
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\MainWindow.g.cs
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\App.g.cs
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer_MarkupCompile.cache
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer_MarkupCompile.lref
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Pplayer.exe.config
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Pplayer.exe
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Pplayer.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\App.baml
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\MainWindow.baml
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.g.resources
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.Properties.Resources.resources
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.csproj.GenerateResource.Cache
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.csproj.CoreCompileInputs.cache
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.exe
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\WPFSoundVisualizationLib.dll
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Bass.Net.dll
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\bin\Debug\Bass.Net.xml
+C:\Users\natio\OneDrive\Рабочий стол\Нова папка\Pplayer\Pplayer\obj\Debug\Pplayer_Content.g.cs
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Pplayer.exe.config
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Pplayer.exe
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Pplayer.pdb
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\WPFSoundVisualizationLib.dll
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Bass.Net.xml
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.csprojResolveAssemblyReference.cache
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\MainWindow.g.cs
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\App.g.cs
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer_Content.g.cs
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer_MarkupCompile.cache
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer_MarkupCompile.lref
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\App.baml
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\MainWindow.baml
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.g.resources
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.Properties.Resources.resources
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.csproj.GenerateResource.Cache
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.csproj.CoreCompileInputs.cache
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.exe
+C:\Users\Guest117\Desktop\Pplayer\Pplayer\obj\Debug\Pplayer.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Pplayer.exe.config
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Pplayer.exe
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Pplayer.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Bass.Net.dll
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\WPFSoundVisualizationLib.dll
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Bass.Net.xml
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.csprojResolveAssemblyReference.cache
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\MainWindow.g.cs
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\App.g.cs
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer_Content.g.cs
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer_MarkupCompile.cache
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer_MarkupCompile.lref
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\App.baml
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\MainWindow.baml
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.g.resources
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.Properties.Resources.resources
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.csproj.GenerateResource.Cache
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.csproj.CoreCompileInputs.cache
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.exe
+C:\Users\natio\OneDrive\Рабочий стол\Pplayer\Pplayer\obj\Debug\Pplayer.pdb
